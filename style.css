@@ -1,21 +1,55 @@
 body{
+    margin: 0px;
     font-family: "Open Sans", sans-serif;
 }
 h1{
     font-size: 50px;
+    color:cornflowerblue;
 }
 .tasin{
     color: chartreuse;
 }
 .paragraph{
-    width: 30%;
+        width: 40%;
     float: left;
-    margin-left:5%;
-    padding-left: 2%;
-}
-.paragrapgh img{
-    margin-bottom: 5%;
-    width: 100%;
+
     
+        margin-left:5%;
+        padding-left: 2%;
+    }
+.paragraph img{
+
+ 
+    width:100%;
+ 
+   
+    
+}
+.top-banner{
+    border: 1px solid red;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.text{
+    text-decoration: none;
+    color: black;
+    padding:10px 20px;
+   
+    border-radius: 5px;
+   background-image: linear-gradient(45deg,yellow,red);
+    font-weight: 700px;
+}
+.me{
+    color: darkgreen;
+}
+
+.tumi{
+    border: 1px solid red;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
 }
 
