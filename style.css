@@ -52,4 +52,31 @@ section{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
+.paragraphamr{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    float: left;
 
+    
+        margin-left:5%;
+        padding-left: 2%;
+}
+.experience{
+    border: 1px solid red;
+    background-image: url("images/exp-bg.png" );
+    background-repeat: no-repeat;
+
+}
+#no{
+    border-left: 7px solid;
+    border-image: linear-gradient(45deg,yellow,red);
+    border-image-slice: 1;
+}
+#yes{
+    border-left: 7px solid;
+    border-image: linear-gradient(45deg,blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
