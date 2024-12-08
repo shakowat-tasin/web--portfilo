@@ -1,0 +1,21 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.tasin{
+    color: chartreuse;
+}
+.paragraph{
+    width: 30%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+}
+.paragrapgh img{
+    margin-bottom: 5%;
+    width: 100%;
+    
+}
+
